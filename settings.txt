@@ -1,0 +1,158 @@
+{
+  "editor.fontFamily": "SF Mono, Inconsolata,  Arial, Helvetica, sans-serif",
+  "editor.wordWrap": "on",
+  "files.trimTrailingWhitespace": true,
+  "explorer.confirmDelete": false,
+  "editor.minimap.renderCharacters": false,
+  "workbench.colorCustomizations": {
+    "sideBar.background": "#191a2e",
+    "editor.background": "#191a2e",
+    "terminal.background": "#191a2e",
+    "panel.background": "#191a2e",
+    "activityBar.background": "#191a2e",
+    "tab.activeBorderTop": "#8d92ff",
+    "tab.inactiveBackground": "#191A22",
+    "panelTitle.activeBorder": "#8d92ff",
+    "panel.border": "#8d92ff",
+    "tab.activeBackground": "#191a2e",
+    "breadcrumb.background": "#191a2e",
+    "sideBarSectionHeader.background": "#191a2e",
+    "activityBarBadge.background": "#ff6bcb",
+    "activityBar.activeBorder": "#ff6bcb",
+    "titleBar.activeBackground": "#1E1F35",
+    "terminal.ansiGreen": "#20e3b2",
+    "terminal.ansiYellow": "#FDE181",
+    "terminal.ansiMagenta": "#ff6bcb",
+    "editorCursor.foreground": "#9a86fd"
+  },
+  "editor.fontLigatures": true,
+  "editor.tokenColorCustomizations": {
+    "[Dracula]": {
+      "textMateRules": [
+        {
+          "scope": [
+            "entity.other.attribute-name",
+            "entity.name.function",
+            "support.function",
+            "support.function.css",
+            "support.function.transform.css",
+            "support.type.media-names.css",
+            "support.type.property-names.css",
+            "entity.other.attribute-name.jsx",
+            "entity.other.attribute-name.html",
+            "variable.other.class.js"
+          ],
+          "settings": {
+            "foreground": "#20e3b2",
+            "fontStyle": ""
+          }
+        },
+        {
+          "scope": [
+            "variable.other.property.js",
+            "variable.other.property.static.js",
+            "JSXNested",
+            "variable.other.readwrite.js",
+            "punctuation.semi-colon",
+            "punctuation.colon",
+            "punctuation.definition.tag"
+          ],
+          "settings": {
+            "foreground": "#fff"
+          }
+        },
+        {
+          "scope": [
+            "variable.graphql",
+            "string",
+            "punctuation.definition.string.begin",
+            "punctuation.definition.string.end",
+            "meta.attribute-selector.scss",
+            "meta.attribute-selector.css"
+          ],
+          "settings": {
+            "foreground": "#EAC394"
+          }
+        },
+        {
+          "scope": [
+            "keyword",
+            "storage",
+            "constant.length.units.css",
+            "source.inside-js.css.styled",
+            "keyword.other.unit.percentage.css",
+            "keyword.other.unit.px.css",
+            "keyword.other.unit.rem.css",
+            "constant.length.units.css",
+            "constant.percentage.units.css",
+            "constant.time.units.css",
+            "constant.angle.units.css",
+            "constant.numeric.css",
+            "punctuation.definition.keyword",
+            "entity.name.tag"
+          ],
+          "settings": {
+            "foreground": "#ff6bcb"
+          }
+        },
+        {
+          "scope": [
+            "variable.parameter",
+            "variable.other.constant",
+            "support.variable",
+            "constant",
+            "support.type.property-name.media.css",
+            "meta.property-values.css",
+            "support.constant"
+          ],
+          "settings": {
+            "foreground": "#9a86fd",
+            "fontStyle": ""
+          }
+        },
+        {
+          "scope": ["support.class.component"],
+          "settings": {
+            "fontStyle": ""
+          }
+        },
+        {
+          "scope": ["variable.other.constant.object.js"],
+          "settings": {
+            "foreground": "#bd93f9"
+          }
+        },
+        {
+          "scope": ["entity.name.type.parameter"],
+          "settings": {
+            "foreground": "#ffb86c"
+          }
+        },
+        {
+          "scope": [
+            "support",
+            "entity.name.type",
+            "meta.interface.ts",
+            "entity.other.inherited-class"
+          ],
+          "settings": {
+            "foreground": "#2cccff"
+          }
+        },
+        {
+          "scope": [
+            "variable.other.readwrite.js",
+            "entity.name.type.class",
+            "variable.other.property.js",
+            "variable.scss",
+            "storage.modifier.ts",
+            "variable.other.property.static.js"
+          ],
+          "settings": {
+            "foreground": "#82AAFF"
+          }
+        }
+      ]
+    }
+  }
+}
