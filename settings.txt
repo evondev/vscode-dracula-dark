@@ -1,9 +1,3 @@
-{
-  "editor.fontFamily": "SF Mono, Inconsolata,  Arial, Helvetica, sans-serif",
-  "editor.wordWrap": "on",
-  "files.trimTrailingWhitespace": true,
-  "explorer.confirmDelete": false,
-  "editor.minimap.renderCharacters": false,
   "workbench.colorCustomizations": {
     "sideBar.background": "#191a2e",
     "editor.background": "#191a2e",
@@ -25,7 +19,6 @@
     "terminal.ansiMagenta": "#ff6bcb",
     "editorCursor.foreground": "#9a86fd"
   },
-  "editor.fontLigatures": true,
   "editor.tokenColorCustomizations": {
     "[Dracula]": {
       "textMateRules": [
@@ -155,4 +148,3 @@
       ]
     }
   }
-}
