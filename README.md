@@ -11,5 +11,14 @@ I'm evondev, a frontend developer also a blogger and youtuber teaching and shari
 ## Install fonts
 - Base on your system you can search on Google how to install fonts for your system with all fonts in **fonts folder**
 - After installed fonts, you can use in your Visual Studio Code with setting `editor.fontFamily` in your **settings.json**. Example: `editor.fontFamily: "SF Mono, Inconsolata,  Arial, Helvetica, sans-serif"`
+## Some of images
+### HTML
+![html](/images/html.png "html")
+### SASS
+![sass](/images/sass.png "sass")
+### JAVASCRIPT
+![javascript](/images/javascript.png "javascript")
+### JSX
+![jsx](/images/jsx.png "jsx")
 ## Thanks
 Thanks https://zenorocha.com/ for creating the Dracula theme
