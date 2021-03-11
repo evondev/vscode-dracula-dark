@@ -22,3 +22,11 @@ I'm evondev, a frontend developer also a blogger and youtuber teaching and shari
 ![jsx](/images/jsx.png "jsx")
 ## Thanks
 Thanks https://zenorocha.com/ for creating the Dracula theme
+## Bonus - PowerMode
+Install this package at this link: **vscode:extension/hoovercj.vscode-power-mode**, after installed, you can copy **powermode settings** in `settings.txt` to your `settings.json`
+## Notice
+Your `settings.json` should have curly braces at beginning and the end of file. For example:
+`{
+  // your all settings here,
+  // other settings you copied from my custom
+}`

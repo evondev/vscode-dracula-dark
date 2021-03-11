@@ -1,3 +1,12 @@
+  // powermode settings
+  "powermode.enabled": true,
+  "powermode.enableShake": false,
+  "powermode.enableStatusBarComboTimer": false,
+  "powermode.enableStatusBarComboCounter": false,
+  "powermode.explosionOffset": 0.3,
+  "powermode.explosionSize": 4,
+  // end powermode settings
+  // vscode color customization
   "workbench.colorCustomizations": {
     "sideBar.background": "#191a2e",
     "editor.background": "#191a2e",
@@ -19,6 +28,7 @@
     "terminal.ansiMagenta": "#ff6bcb",
     "editorCursor.foreground": "#9a86fd"
   },
+  // dracula color customization
   "editor.tokenColorCustomizations": {
     "[Dracula]": {
       "textMateRules": [
