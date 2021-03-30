@@ -1,9 +1,9 @@
-# Install dracula theme
-Link to install dracula theme for vscode: vscode:extension/dracula-theme.theme-dracula
-# vscode-dracula-dark
+# Author
+I'm **evondev**, a frontend developer also a blogger and youtuber teaching and sharing knowledge about HTML CSS. https://evondev.com is my personal blog and https://codingui.dev is my personal project to share UI.
+## vscode-dracula-dark
 Just simple vscode Dracula Theme with dark color customization version
-## About me
-I'm evondev, a frontend developer also a blogger and youtuber teaching and sharing knowledge about HTML CSS. https://evondev.com is my personal blog and https://codingui.dev is my personal project to share UI.
+## Install dracula theme
+Link to install dracula theme for vscode: vscode:extension/dracula-theme.theme-dracula
 ## Install theme
 - Open Visual Studio Code and click to `Extensions` icon(4 square) on the left of sidebar and type `Dracula Official`
 - Click install and then choose **Dracula** color scheme
