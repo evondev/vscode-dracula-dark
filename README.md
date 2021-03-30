@@ -1,3 +1,5 @@
+# Install dracula theme
+Link to install dracula theme for vscode: vscode:extension/dracula-theme.theme-dracula
 # vscode-dracula-dark
 Just simple vscode Dracula Theme with dark color customization version
 ## About me
@@ -20,8 +22,6 @@ I'm evondev, a frontend developer also a blogger and youtuber teaching and shari
 ![javascript](/images/javascript.png "javascript")
 ### JSX
 ![jsx](/images/jsx.png "jsx")
-## Thanks
-Thanks https://zenorocha.com/ for creating the Dracula theme
 ## Bonus - PowerMode
 Install this package at this link: **vscode:extension/hoovercj.vscode-power-mode**, after installed, you can copy **powermode settings** in `settings.txt` to your `settings.json`
 ## Notice
